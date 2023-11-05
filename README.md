@@ -4,4 +4,4 @@ The related datasets can be downloaded in [NELL-995](http://cs.ucsb.edu/~xwhan/d
 
 
 # Baselines
-[HAKE]([http://cs.ucsb.edu/~xwhan/datasets/NELL-995.zip](https://github.com/MIRALab-USTC/KGE-HAKE)https://github.com/MIRALab-USTC/KGE-HAKE)
+[HAKE](https://github.com/MIRALab-USTC/KGE-HAKE)
