@@ -4,6 +4,7 @@ The related datasets can be downloaded in [NELL-995](http://cs.ucsb.edu/~xwhan/d
 
 
 # Baselines
+[RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 [HAKE](https://github.com/MIRALab-USTC/KGE-HAKE)
 [PRA](https://github.com/David-Lee-1990/Path-ranking-algorithm)
 [DeepPath](https://github.com/xwhan/DeepPath)
