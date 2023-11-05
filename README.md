@@ -5,3 +5,11 @@ The related datasets can be downloaded in [NELL-995](http://cs.ucsb.edu/~xwhan/d
 
 # Baselines
 [HAKE](https://github.com/MIRALab-USTC/KGE-HAKE)
+[PRA](https://github.com/David-Lee-1990/Path-ranking-algorithm)
+[DeepPath](https://github.com/xwhan/DeepPath)
+[MINERVA](https://github.com/shehzaadzd/MINERVA)
+[CURL](https://github.com/RutgersDM/DKGR/tree/master)
+[GRAIL](https://github.com/MIRALab-USTC/KGE-HAKE)
+[NBFNet](https://github.com/MIRALab-USTC/KGE-HAKE)
+[PathCon](https://github.com/hwwang55/PathCon)
+[SQUIRE](https://github.com/bys0318/SQUIRE)
