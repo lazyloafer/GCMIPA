@@ -19,7 +19,7 @@ python model.py NELL-995 concept_organizationheadquarteredincity 10 10
 [PathCon](https://github.com/hwwang55/PathCon)
 [SQUIRE](https://github.com/bys0318/SQUIRE)
 
-If you find this paper useful, please cite this paper:
+# If you find this paper useful, please cite this paper:
 ```
 @article{DBLP:journals/tkde/ZhuoWZW24,
   author       = {Xingrui Zhuo and
