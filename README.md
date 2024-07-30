@@ -18,3 +18,25 @@ python model.py NELL-995 concept_organizationheadquarteredincity 10 10
 [NBFNet](https://github.com/DeepGraphLearning/NBFNet)
 [PathCon](https://github.com/hwwang55/PathCon)
 [SQUIRE](https://github.com/bys0318/SQUIRE)
+
+If you find this paper useful, please cite this paper:
+```
+@article{DBLP:journals/tkde/ZhuoWZW24,
+  author       = {Xingrui Zhuo and
+                  Gongqing Wu and
+                  Zan Zhang and
+                  Xindong Wu},
+  title        = {Geometric-Contextual Mutual Infomax Path Aggregation for Relation
+                  Reasoning on Knowledge Graph},
+  journal      = {{IEEE} Trans. Knowl. Data Eng.},
+  volume       = {36},
+  number       = {7},
+  pages        = {3076--3090},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/TKDE.2024.3360258},
+  doi          = {10.1109/TKDE.2024.3360258},
+  timestamp    = {Tue, 18 Jun 2024 09:25:13 +0200},
+  biburl       = {https://dblp.org/rec/journals/tkde/ZhuoWZW24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
